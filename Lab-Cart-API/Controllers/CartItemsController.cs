@@ -47,7 +47,7 @@ namespace Lab_Cart_API.Controllers
             -H 'accept: */ //*'
             if (Price != null)
             {
-                cartItems = cartItems.Where(i => i.Price > Price);
+                cartItems = cartItems.Where(i => i.Price <= Price);
             }
             //4.
             /*curl -K 'GET' \

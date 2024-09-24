@@ -30,3 +30,4 @@ C:\Users\david\source\repos\Lab-Cart-API\Lab-Cart-API\obj\Debug\net8.0\refint\La
 C:\Users\david\source\repos\Lab-Cart-API\Lab-Cart-API\obj\Debug\net8.0\Lab-Cart-API.pdb
 C:\Users\david\source\repos\Lab-Cart-API\Lab-Cart-API\obj\Debug\net8.0\Lab-Cart-API.genruntimeconfig.cache
 C:\Users\david\source\repos\Lab-Cart-API\Lab-Cart-API\obj\Debug\net8.0\ref\Lab-Cart-API.dll
+C:\Users\david\source\repos\Lab-Cart-API\Lab-Cart-API\obj\Debug\net8.0\Lab-Cart-API.sourcelink.json
